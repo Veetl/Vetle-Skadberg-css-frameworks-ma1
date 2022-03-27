@@ -1,0 +1,24 @@
+.scolor {
+    
+    background-color:#F4F3EE;
+    
+}
+.wcolor {
+    
+    background-color:#FFFFFF;
+    
+}
+.pcolor {
+
+    background-color:#C32C72;
+    
+}
+.wboard {
+    
+    border: 3px solid #FFFFFF;
+}
+.pboard {
+    
+    border:3px solid #C32C72;
+    
+}
